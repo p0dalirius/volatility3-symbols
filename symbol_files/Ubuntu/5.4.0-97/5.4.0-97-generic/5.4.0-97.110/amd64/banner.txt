@@ -1,0 +1,1 @@
+Linux version 5.4.0-97-generic (buildd@bos02-arm64-064) (gcc version 9.3.0 (Ubuntu 9.3.0-17ubuntu1~20.04)) #110-Ubuntu SMP Thu Jan 13 18:29:49 UTC 2022 (Ubuntu 5.4.0-97.110-generic 5.4.162)
