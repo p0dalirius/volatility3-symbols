@@ -1,0 +1,1 @@
+Linux version 4.15.0-76-generic (buildd@bos02-arm64-060) (gcc version 7.4.0 (Ubuntu/Linaro 7.4.0-1ubuntu1~18.04.1)) #86-Ubuntu SMP Fri Jan 17 17:25:58 UTC 2020 (Ubuntu 4.15.0-76.86-generic 4.15.18)
