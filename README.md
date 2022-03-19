@@ -1,5 +1,3 @@
-# volatility3-symbols
-
 ![](./.github/banner.png)
 
 <p align="center">
