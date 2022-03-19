@@ -1,0 +1,1 @@
+Linux version 5.15.0-22-generic (buildd@bos02-arm64-047) (gcc (Ubuntu 11.2.0-16ubuntu1) 11.2.0, GNU ld (GNU Binutils for Ubuntu) 2.37.90.20220207) #22-Ubuntu SMP Tue Feb 8 13:17:17 UTC 2022 (Ubuntu 5.15.0-22.22-generic 5.15.19)
