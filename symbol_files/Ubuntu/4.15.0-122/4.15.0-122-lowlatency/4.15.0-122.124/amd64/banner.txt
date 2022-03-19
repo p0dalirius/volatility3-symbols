@@ -1,0 +1,1 @@
+Linux version 4.15.0-122-lowlatency (buildd@lgw01-amd64-003) (gcc version 7.5.0 (Ubuntu 7.5.0-3ubuntu1~18.04)) #124-Ubuntu SMP PREEMPT Thu Oct 15 13:45:03 UTC 2020 (Ubuntu 4.15.0-122.124-lowlatency 4.15.18)
