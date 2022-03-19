@@ -1,0 +1,1 @@
+Linux version 3.13.0-169-generic (buildd@bos02-arm64-024) (gcc version 4.8.4 (Ubuntu/Linaro 4.8.4-2ubuntu1~14.04.4) ) #219-Ubuntu SMP Wed Apr 3 14:03:14 UTC 2019 (Ubuntu 3.13.0-169.219-generic 3.13.11-ckt39)
