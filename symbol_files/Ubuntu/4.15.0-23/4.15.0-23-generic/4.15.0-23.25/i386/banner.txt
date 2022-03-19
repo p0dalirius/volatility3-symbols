@@ -1,0 +1,1 @@
+Linux version 4.15.0-23-generic (buildd@lcy01-amd64-017) (gcc version 7.3.0 (Ubuntu 7.3.0-16ubuntu3)) #25-Ubuntu SMP Wed May 23 17:59:24 UTC 2018 (Ubuntu 4.15.0-23.25-generic 4.15.18)
