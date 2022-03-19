@@ -1,0 +1,1 @@
+Linux version 5.4.0-26-lowlatency (buildd@lcy01-amd64-029) (gcc version 9.3.0 (Ubuntu 9.3.0-10ubuntu2)) #30-Ubuntu SMP PREEMPT Mon Apr 20 17:51:18 UTC 2020 (Ubuntu 5.4.0-26.30-lowlatency 5.4.30)
