@@ -1,0 +1,1 @@
+Linux version 4.15.0-55-generic (buildd@bos02-arm64-065) (gcc version 7.4.0 (Ubuntu/Linaro 7.4.0-1ubuntu1~18.04.1)) #60-Ubuntu SMP Tue Jul 2 18:23:38 UTC 2019 (Ubuntu 4.15.0-55.60-generic 4.15.18)
