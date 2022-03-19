@@ -1,0 +1,1 @@
+Linux version 4.15.0-109-generic (buildd@bos02-arm64-020) (gcc version 7.5.0 (Ubuntu/Linaro 7.5.0-3ubuntu1~18.04)) #110-Ubuntu SMP Tue Jun 23 02:40:18 UTC 2020 (Ubuntu 4.15.0-109.110-generic 4.15.18)
