@@ -1,0 +1,1 @@
+Linux version 4.15.0-30-generic (buildd@lcy01-amd64-020) (gcc version 7.3.0 (Ubuntu 7.3.0-16ubuntu3)) #32-Ubuntu SMP Thu Jul 26 17:40:03 UTC 2018 (Ubuntu 4.15.0-30.32-generic 4.15.18)
