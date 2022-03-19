@@ -1,0 +1,1 @@
+Linux version 4.15.0-50-generic (buildd@lgw01-amd64-036) (gcc version 7.3.0 (Ubuntu 7.3.0-16ubuntu3)) #54-Ubuntu SMP Mon May 6 18:45:45 UTC 2019 (Ubuntu 4.15.0-50.54-generic 4.15.18)
