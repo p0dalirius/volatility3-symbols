@@ -1,0 +1,1 @@
+Linux version 5.13.0-25-generic (buildd@bos02-arm64-079) (gcc (Ubuntu 11.2.0-7ubuntu2) 11.2.0, GNU ld (GNU Binutils for Ubuntu) 2.37) #26-Ubuntu SMP Fri Jan 7 15:58:44 UTC 2022 (Ubuntu 5.13.0-25.26-generic 5.13.19)
