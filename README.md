@@ -8,6 +8,10 @@
   <br>
 </p>
 
+Despite hours of work, all of these **637** symbols are generated and shared for free. So if you find this project useful, please ⭐ this repo or support my work on [patreon](https://www.patreon.com/podalirius).
+
+If you're using volatility 2, you should check out [volatility2-profiles](https://github.com/p0dalirius/volatility2-profiles).
+
 ## Installation
 
 Each of these symbols is packaged as a compressed `.json.xz` file. You can enable them individually in your Volatility installation by copying:
