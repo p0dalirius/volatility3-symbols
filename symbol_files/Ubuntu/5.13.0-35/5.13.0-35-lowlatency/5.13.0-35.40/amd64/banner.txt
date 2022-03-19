@@ -1,0 +1,1 @@
+Linux version 5.13.0-35-lowlatency (buildd@ubuntu) (gcc (Ubuntu 11.2.0-7ubuntu2) 11.2.0, GNU ld (GNU Binutils for Ubuntu) 2.37) #40-Ubuntu SMP PREEMPT Mon Mar 7 08:51:03 UTC 2022 (Ubuntu 5.13.0-35.40-lowlatency 5.13.19)
