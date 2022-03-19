@@ -1,0 +1,1 @@
+Linux version 4.4.0-154-generic (buildd@bos02-arm64-045) (gcc version 5.4.0 20160609 (Ubuntu/Linaro 5.4.0-6ubuntu1~16.04.10) ) #181-Ubuntu SMP Tue Jun 25 05:31:08 UTC 2019 (Ubuntu 4.4.0-154.181-generic 4.4.179)
