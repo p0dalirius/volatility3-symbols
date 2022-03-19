@@ -1,0 +1,1 @@
+Linux version 5.4.0-105-generic (buildd@bos02-arm64-059) (gcc version 9.4.0 (Ubuntu 9.4.0-1ubuntu1~20.04)) #119-Ubuntu SMP Mon Mar 7 18:51:51 UTC 2022 (Ubuntu 5.4.0-105.119-generic 5.4.174)
