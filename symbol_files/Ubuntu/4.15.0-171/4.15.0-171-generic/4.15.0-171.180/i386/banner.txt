@@ -1,0 +1,1 @@
+Linux version 4.15.0-171-generic (buildd@bos02-arm64-068) (gcc version 7.5.0 (Ubuntu/Linaro 7.5.0-3ubuntu1~18.04)) #180-Ubuntu SMP Wed Mar 2 17:26:13 UTC 2022 (Ubuntu 4.15.0-171.180-generic 4.15.18)
