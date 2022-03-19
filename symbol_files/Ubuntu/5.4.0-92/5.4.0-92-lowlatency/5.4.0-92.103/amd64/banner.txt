@@ -1,0 +1,1 @@
+Linux version 5.4.0-92-lowlatency (buildd@lgw01-amd64-016) (gcc version 9.3.0 (Ubuntu 9.3.0-17ubuntu1~20.04)) #103-Ubuntu SMP PREEMPT Fri Nov 26 17:05:05 UTC 2021 (Ubuntu 5.4.0-92.103-lowlatency 5.4.157)
