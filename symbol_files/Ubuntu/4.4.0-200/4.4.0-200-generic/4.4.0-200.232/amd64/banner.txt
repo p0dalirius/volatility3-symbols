@@ -1,0 +1,1 @@
+Linux version 4.4.0-200-generic (buildd@bos02-arm64-025) (gcc version 5.4.0 20160609 (Ubuntu/Linaro 5.4.0-6ubuntu1~16.04.12) ) #232-Ubuntu SMP Wed Jan 13 10:20:54 UTC 2021 (Ubuntu 4.4.0-200.232-generic 4.4.244)
