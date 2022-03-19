@@ -1,0 +1,1 @@
+Linux version 5.4.0-54-generic (buildd@bos02-arm64-024) (gcc version 9.3.0 (Ubuntu 9.3.0-17ubuntu1~20.04)) #60-Ubuntu SMP Fri Nov 6 10:41:43 UTC 2020 (Ubuntu 5.4.0-54.60-generic 5.4.65)
