@@ -1,0 +1,1 @@
+Linux version 5.4.0-70-generic (buildd@bos02-arm64-038) (gcc version 9.3.0 (Ubuntu 9.3.0-17ubuntu1~20.04)) #78-Ubuntu SMP Fri Mar 19 13:28:39 UTC 2021 (Ubuntu 5.4.0-70.78-generic 5.4.94)
